@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto px-4 py-4">
+  <div class="max-w-screen-xl mx-auto px-4 py-4">
     <h1>Privacy Policy</h1>
     <p>Last updated: October 29, 2021</p>
     <p>
